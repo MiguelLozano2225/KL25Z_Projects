@@ -1,0 +1,65 @@
+/*
+ * main implementation: use this 'C' sample to create your own application
+ *
+ */
+#include "derivative.h" /* include peripheral declarations */
+#include "pin_n_clocks.h"
+#include "pit.h"
+#include "nvic.h"
+
+
+uint8_t Array[4] = {0x05U, 0x06U, 0x0AU, 0x09U};
+
+int main(void)
+
+{	
+	uint8_t size=0;
+	uint8_t * ptr;
+	
+	//Enable_IRQ(INT_PIT);
+	Init_clocks_n_pins();	
+	Enable_IRQ(INT_PORTA);
+	Priority_IRQ(INT_PORTA, 0);
+	
+	for(;;)
+	{
+		ptr = Array;
+		size=4;
+		while(size)
+		{
+			NIBBLE(*ptr);
+			//PIT_Init(10);
+			delay();
+			ptr++;
+			size--;
+		}
+	}
+	
+	return 0;
+}
+/*-
+
+
+void PIT_IRQHandler(void)
+{
+	// PIT timeout has occurred ?
+	if(PIT_TFLG0 & PIT_TFLG_TIF_MASK)
+	{
+		// Clear Timer flag (W1C)
+		PIT_TFLG0 |= PIT_TFLG_TIF_MASK;
+	}
+}*/
+
+void PORTA_IRQHandler(void)
+{
+	uint8_t i;
+	uint8_t aux;
+	PORTA_PCR13 |= PORT_PCR_ISF_MASK;  
+
+	for(i=0; i<2; i++)
+	{
+		aux = Array[i];
+		Array[i] = Array[3-i];
+		Array[3-i] = aux;
+	}
+}
