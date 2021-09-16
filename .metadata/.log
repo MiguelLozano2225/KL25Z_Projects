@@ -2635,3 +2635,2200 @@ org.eclipse.core.runtime.CoreException: ARM GDI Protocol Adapter : Can't connect
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
 !SUBENTRY 1 com.freescale.core.debugger.cdt 4 16777218 2021-08-15 16:06:14.991
 !MESSAGE ARM GDI Protocol Adapter : Can't connect. The Debugger can not connect to the P&E device
+!SESSION 2021-09-16 00:53:05.264 -----------------------------------------------
+eclipse.buildId=I20070613-1755
+java.version=1.6.0_15
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data D:\git_projects\KL25Z_Projects
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:10.848
+!MESSAGE NLS missing message: ContentTypes_errorDialogAlreadyExists in: org.eclipse.ui.internal.messages
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2021-09-16 00:53:25.647
+!MESSAGE Environment Variable Dependency not resolved for 'ARMGNUDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2021-09-16 00:53:25.665
+!MESSAGE Environment Variable Dependency not resolved for 'ARMSummonDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2021-09-16 00:53:25.665
+!MESSAGE Environment Variable Dependency not resolved for 'ARMYagartoDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2021-09-16 00:53:25.665
+!MESSAGE Environment Variable Dependency not resolved for 'ARMdevkitProDirEnv'.
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2021-09-16 00:53:28.676
+!MESSAGE External elements location 'C:\Freescale\CW MCU v11.1\eclipse\../MCU/lib/wizard_data/mqx/4.0/cf' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2021-09-16 00:53:28.676
+!MESSAGE External elements location 'C:\Freescale\CW MCU v11.1\eclipse\../MCU/lib/wizard_data/mqx/4.0/ppc' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2021-09-16 00:53:28.676
+!MESSAGE External elements location 'C:\Freescale\CW MCU v11.1\eclipse\../MCU/lib/wizard_data/mqx/4.0/patches' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2021-09-16 00:53:30.988
+!MESSAGE External elements location 'C:\Freescale\CW MCU v11.1\eclipse\../MCU/lib/wizard_data/mqx/4.1/cf' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2021-09-16 00:53:30.988
+!MESSAGE External elements location 'C:\Freescale\CW MCU v11.1\eclipse\../MCU/lib/wizard_data/mqx/4.1/ppc' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2021-09-16 00:53:30.988
+!MESSAGE External elements location 'C:\Freescale\CW MCU v11.1\eclipse\../MCU/lib/wizard_data/mqx/4.1/patches' does not exist
+
+!ENTRY com.freescale.processorexpert.core 1 0 2021-09-16 00:53:39.135
+!MESSAGE Plugin com.freescale.processorexpert.core.service ProcessorExpertServiceProvider
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.118
+!MESSAGE NLS unused message: NewProjectCreator_coreException1 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.118
+!MESSAGE NLS unused message: NewProjectCreator_coreException2 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.119
+!MESSAGE NLS unused message: NewProjectCreator_coreException3 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.119
+!MESSAGE NLS unused message: NewProjectCreator_exception1 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.119
+!MESSAGE NLS unused message: NewProjectCreator_wizardException1 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.119
+!MESSAGE NLS unused message: NewProjectCreator_wizardException2 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.119
+!MESSAGE NLS unused message: NewProjectCreator_wizardException3 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.119
+!MESSAGE NLS unused message: NewProjectCreator_wizardException4 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.119
+!MESSAGE NLS unused message: NewProjectCreator_wizardException5 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.119
+!MESSAGE NLS unused message: NewProjectCreator_wizardException6 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.119
+!MESSAGE NLS unused message: NewProjectCreator_wizardException7 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.119
+!MESSAGE NLS unused message: NewProjectCreator_wizardException8 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.120
+!MESSAGE NLS unused message: NewProjectCreator_wizardException9 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.120
+!MESSAGE NLS unused message: NewProjectCreator_logError1 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.120
+!MESSAGE NLS unused message: NewProjectCreator_logError2 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.120
+!MESSAGE NLS unused message: NewProjectCreator_logError3 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.120
+!MESSAGE NLS unused message: NewProjectCreator_logError4 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.120
+!MESSAGE NLS unused message: NewProjectCreator_multiProjType in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.120
+!MESSAGE NLS unused message: NewProjectCreator_typeNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.120
+!MESSAGE NLS unused message: NewProjectCreator_saveOptions in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.121
+!MESSAGE NLS unused message: NewProjectCreator_cantLocateType in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.121
+!MESSAGE NLS unused message: NewProjectCreator_addNature in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.121
+!MESSAGE NLS unused message: NewProjectCreator_addBuilder in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.121
+!MESSAGE NLS unused message: NewProjectCreator_settingNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.121
+!MESSAGE NLS unused message: NewProjectCreator_optionNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.121
+!MESSAGE NLS unused message: NewProjectCreator_unknownOption in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.121
+!MESSAGE NLS unused message: NewProjectCreator_configNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.121
+!MESSAGE NLS unused message: NewProjectCreator_varContainsOpenBrace in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.122
+!MESSAGE NLS unused message: NewProjectCreator_endlessVarLoop in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.122
+!MESSAGE NLS unused message: NewProjectCreator_userFilesNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.122
+!MESSAGE NLS unused message: NewProjectCreator_warningTitleFilesNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.122
+!MESSAGE NLS unused message: ExtensionLoader_loadexception in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.122
+!MESSAGE NLS unused message: ExtensionLoader_wizardException in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.123
+!MESSAGE NLS unused message: ExtensionLoader_unknown in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.123
+!MESSAGE NLS unused message: ExtensionLoader_illElement in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.123
+!MESSAGE NLS unused message: CWWizard_windowTitle in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.123
+!MESSAGE NLS unused message: CWWizard_description in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.123
+!MESSAGE NLS unused message: CWWizard_pageTitle in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.124
+!MESSAGE NLS unused message: CWWizard_pageDescription in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.124
+!MESSAGE NLS unused message: CWWizard_errorTitle in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.124
+!MESSAGE NLS unused message: CWWizard_errorMsg in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.124
+!MESSAGE NLS unused message: CWWizard_classicImporter_pageTitle in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.124
+!MESSAGE NLS unused message: CWWizard_classicImporter_pageDescription in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.125
+!MESSAGE NLS unused message: WizardInfo_wizardException0 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.125
+!MESSAGE NLS unused message: WizardInfo_wizardException1 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.125
+!MESSAGE NLS unused message: ApplySetting_noChildFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.126
+!MESSAGE NLS unused message: ApplySetting_attrNotAllowed in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.126
+!MESSAGE NLS unused message: ApplySetting_childNotAllowed in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.126
+!MESSAGE NLS unused message: ApplySetting_attrNotSpecified in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.126
+!MESSAGE NLS unused message: ApplySetting_errValueType in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.126
+!MESSAGE NLS unused message: ApplySetting_illSettingType in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.126
+!MESSAGE NLS unused message: ApplySetting_illSettingMode in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.126
+!MESSAGE NLS unused message: ProjectNamePage_stepFormat in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.127
+!MESSAGE NLS unused message: ProjectNamePage_collisionWarn in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.127
+!MESSAGE NLS unused message: ProjectName_error in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:53:40.127
+!MESSAGE NLS unused message: ProjectLocation_error in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.231
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.hcs08
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.233
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.rs08
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.233
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.s12z
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.234
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.dsc
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.234
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.mpc56xx
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.234
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.px
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.234
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.cfv1
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.234
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.cfv1+
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.234
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v2
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.234
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.234
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.235
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v4e
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.235
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v2
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.235
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.235
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.235
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v4e
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.236
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v2
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.236
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.236
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.236
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v4e
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:53:41.239
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.s12z.subfamily.zvm
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2021-09-16 00:53:43.134
+!MESSAGE Connection to http://nxp.com/lgfiles/updates/Eclipse/MCU11_1/updatesite/p2.index failed on Received fatal alert: protocol_version. Retry attempt 0 started
+!STACK 0
+javax.net.ssl.SSLException: Received fatal alert: protocol_version
+	at com.sun.net.ssl.internal.ssl.Alerts.getSSLException(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.Alerts.getSSLException(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.SSLSocketImpl.recvAlert(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.SSLSocketImpl.writeRecord(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.AppOutputStream.write(Unknown Source)
+	at java.io.BufferedOutputStream.flushBuffer(Unknown Source)
+	at java.io.BufferedOutputStream.flush(Unknown Source)
+	at org.apache.commons.httpclient.HttpConnection.flushRequestOutputStream(HttpConnection.java:828)
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.flushRequestOutputStream(MultiThreadedHttpConnectionManager.java:1565)
+	at org.apache.commons.httpclient.HttpMethodBase.writeRequest(HttpMethodBase.java:2116)
+	at org.apache.commons.httpclient.HttpMethodBase.execute(HttpMethodBase.java:1096)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer$GzipGetMethod.execute(HttpClientRetrieveFileTransfer.java:120)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:398)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:346)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1129)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.openStreams(HttpClientRetrieveFileTransfer.java:699)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:879)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:570)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapter.sendRetrieveRequest(MultiProtocolRetrieveAdapter.java:106)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.sendRetrieveRequest(FileReader.java:422)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.readInto(FileReader.java:355)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:101)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:156)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadIndexFile(AbstractRepositoryManager.java:721)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:640)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:150)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:128)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:72)
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:04.339
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:04.339
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:04.339
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:04.339
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:04.340
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:04.340
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:04.340
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:04.340
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:04.340
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:04.340
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:04.341
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:04.341
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:04.341
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60N256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:04.341
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:04.341
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.157
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_SIZE_LIB_YES
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.157
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.pa.hasPermanent.dualCore.homogeneous.config
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.164
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_SOFTWARE_FPU
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.165
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_HARDWARE_FPU
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.165
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_SIZE_LIB_NO
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.166
+!MESSAGE Unknown condition ID: mcu.projectwizard.chip.k10d_100.ID_CHIP_MK60DN256Z
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.166
+!MESSAGE Unknown condition ID: mcu.projectwizard.chip.k10d_100.ID_CHIP_MK60DN256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.172
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.hc08
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.172
+!MESSAGE Unknown condition ID: com.processorexpert.variant.7
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.172
+!MESSAGE Unknown condition ID: com.processorexpert.variant.8
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.179
+!MESSAGE Unknown condition ID: com.processorexpert.variant.9
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.179
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.179
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.180
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.5
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.180
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.6
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.638
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.isColdFire.v1.ID_TARGET_BOOTFLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.638
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_INTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.638
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_CONSOLE_INTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.642
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_EXTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.642
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_CONSOLE_EXTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.642
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_INTFLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.642
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_EXTFLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.642
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_INTERNAL_FLASH_SDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.644
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_INTERNAL_FLASH_LDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.644
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_EXTERNAL_RAM_SDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.644
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_EXTERNAL_RAM_LDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.644
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_SIMULATOR
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.645
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.pa.ID_TARGET_INTERNAL_RAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:18.645
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.pa.ID_TARGET_INTERNAL_FLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:19.568
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copytoproject.cfv1
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:19.568
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.dontcopytoproject
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:19.568
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.abs
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:19.575
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copyelf.pa
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:19.575
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.arm
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:19.575
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.dsc
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:19.576
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.s12z
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:19.576
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.bb.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:19.576
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.kd.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:19.576
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.app.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:19.576
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.flt
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:54:19.577
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.arm.setPnEAttribute.STARTUP_USE_SWD
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-09-16 00:54:26.296
+!MESSAGE Indexed 'KL25Z_ServoMotor' (4 sources, 29 headers) in 3.56 sec: 1,686 declarations; 1,951 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:54:51.825
+!MESSAGE NLS unused message: trace_trigger_dv_error_title in: com.freescale.sa.mcu.analysispoints.nls.ui
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 00:54:51.825
+!MESSAGE NLS unused message: trace_trigger_dv_error_message in: com.freescale.sa.mcu.analysispoints.nls.ui
+
+!ENTRY org.eclipse.jface 2 0 2021-09-16 00:54:52.481
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-16 00:54:52.481
+!MESSAGE A conflict occurred for ALT+CTRL+I:
+Binding(ALT+CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.include.browser,Open Include Browser,
+		Open an include browser on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@6aa8d6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.include.browser,Open Include Browser,
+		Open an include browser on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@6aa8d6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-16 00:54:52.481
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.text.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.cdt.ui.category.refactoring,Refactor - C++,C/C++ Refactorings,true),
+		org.eclipse.ui.internal.MakeHandlersGo@72b02f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.text.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.cdt.ui.category.refactoring,Refactor - C++,C/C++ Refactorings,true),
+		org.eclipse.ui.internal.MakeHandlersGo@72b02f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-16 00:54:52.481
+!MESSAGE A conflict occurred for F4:
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@18cdde3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@18cdde3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-16 00:54:52.481
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.opentype,Open Element,
+		Open an element in an Editor,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@13b9838,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.opentype,Open Element,
+		Open an element in an Editor,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@13b9838,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-16 00:54:52.481
+!MESSAGE A conflict occurred for F3:
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Open an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@186948d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Open an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@186948d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-16 00:54:52.481
+!MESSAGE A conflict occurred for CTRL+G:
+Binding(CTRL+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.finddecl,Declaration,
+		Search for declarations of the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@82b5c3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.finddecl,Declaration,
+		Search for declarations of the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@82b5c3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-16 00:54:52.481
+!MESSAGE A conflict occurred for CTRL+SHIFT+G:
+Binding(CTRL+SHIFT+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.findrefs,References,
+		Search for references to the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@16b2b02,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.findrefs,References,
+		Search for references to the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@16b2b02,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-16 00:54:52.481
+!MESSAGE A conflict occurred for ALT+CTRL+H:
+Binding(ALT+CTRL+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.call.hierarchy,Open Call Hierarchy,
+		Open the call hierarchy for the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@d4c766,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+CTRL+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.call.hierarchy,Open Call Hierarchy,
+		Open the call hierarchy for the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@d4c766,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-16 00:54:52.481
+!MESSAGE A conflict occurred for CTRL+SHIFT+H:
+Binding(CTRL+SHIFT+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.open.type.in.hierarchy,Open Type in Hierarchy,
+		Open a type in the type hierarchy view,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@16f1ee5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.open.type.in.hierarchy,Open Type in Hierarchy,
+		Open a type in the type hierarchy view,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@16f1ee5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.931
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.hcs08
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.931
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.rs08
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.931
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.s12z
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.932
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.dsc
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.932
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.mpc56xx
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.932
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.px
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.932
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.cfv1
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.932
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.cfv1+
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.932
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v2
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.932
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.932
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.932
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v4e
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.933
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v2
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.933
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.933
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.933
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v4e
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.933
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v2
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.933
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.933
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.933
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v4e
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:55:51.934
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.s12z.subfamily.zvm
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:08.105
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:08.105
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:08.105
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:08.108
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:08.108
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:08.109
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:08.109
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:08.110
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:08.110
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:08.111
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:08.111
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:08.112
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:08.112
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60N256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:08.112
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:08.112
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.817
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_SIZE_LIB_YES
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.818
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.pa.hasPermanent.dualCore.homogeneous.config
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.818
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_SOFTWARE_FPU
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.818
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_HARDWARE_FPU
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.819
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_SIZE_LIB_NO
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.819
+!MESSAGE Unknown condition ID: mcu.projectwizard.chip.k10d_100.ID_CHIP_MK60DN256Z
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.819
+!MESSAGE Unknown condition ID: mcu.projectwizard.chip.k10d_100.ID_CHIP_MK60DN256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.826
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.hc08
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.827
+!MESSAGE Unknown condition ID: com.processorexpert.variant.7
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.828
+!MESSAGE Unknown condition ID: com.processorexpert.variant.8
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.828
+!MESSAGE Unknown condition ID: com.processorexpert.variant.9
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.829
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.829
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.829
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.5
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.829
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.6
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.869
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.isColdFire.v1.ID_TARGET_BOOTFLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.870
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_INTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.870
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_CONSOLE_INTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.870
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_EXTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.870
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_CONSOLE_EXTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.870
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_INTFLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.871
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_EXTFLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.871
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_INTERNAL_FLASH_SDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.871
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_INTERNAL_FLASH_LDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.871
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_EXTERNAL_RAM_SDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.871
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_EXTERNAL_RAM_LDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.872
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_SIMULATOR
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.872
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.pa.ID_TARGET_INTERNAL_RAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.872
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.pa.ID_TARGET_INTERNAL_FLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.903
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copytoproject.cfv1
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.903
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.dontcopytoproject
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.903
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.abs
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.908
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copyelf.pa
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.908
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.arm
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.908
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.dsc
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.908
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.s12z
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.908
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.bb.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.908
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.kd.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.908
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.app.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.908
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.flt
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:17.909
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.arm.setPnEAttribute.STARTUP_USE_SWD
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-09-16 00:56:21.044
+!MESSAGE Indexed 'KL25Z_ServoMotor' (4 sources, 29 headers) in 0.93 sec: 1,686 declarations; 1,951 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.867
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.hcs08
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.867
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.rs08
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.867
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.s12z
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.867
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.dsc
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.868
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.mpc56xx
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.868
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.px
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.868
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.cfv1
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.868
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.cfv1+
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.868
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v2
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.868
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.868
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.868
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v4e
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.869
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v2
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.869
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.869
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.869
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v4e
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.869
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v2
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.869
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.869
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.869
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v4e
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:39.870
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.s12z.subfamily.zvm
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:54.712
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.kinetis_e.ke1x.subfamily.ke14d_36
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:54.713
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.kinetis_e.ke1x.subfamily.ke14d_72
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:54.713
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.kinetis_e.ke1x.subfamily.ke15d_36
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:54.714
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.kinetis_e.ke1x.subfamily.ke15d_72
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:54.723
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:54.723
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:54.724
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:54.724
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:54.725
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:54.725
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:54.726
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:54.726
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:54.727
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:54.727
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:54.727
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:54.728
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:54.728
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60N256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:54.728
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:54.729
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.796
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_SIZE_LIB_YES
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.797
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.pa.hasPermanent.dualCore.homogeneous.config
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.797
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_SOFTWARE_FPU
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.797
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_HARDWARE_FPU
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.797
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_SIZE_LIB_NO
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.798
+!MESSAGE Unknown condition ID: mcu.projectwizard.chip.k10d_100.ID_CHIP_MK60DN256Z
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.798
+!MESSAGE Unknown condition ID: mcu.projectwizard.chip.k10d_100.ID_CHIP_MK60DN256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.804
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.hc08
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.805
+!MESSAGE Unknown condition ID: com.processorexpert.variant.7
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.805
+!MESSAGE Unknown condition ID: com.processorexpert.variant.8
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.805
+!MESSAGE Unknown condition ID: com.processorexpert.variant.9
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.806
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.806
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.807
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.5
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.807
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.6
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.847
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.isColdFire.v1.ID_TARGET_BOOTFLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.847
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_INTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.847
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_CONSOLE_INTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.847
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_EXTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.848
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_CONSOLE_EXTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.848
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_INTFLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.848
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_EXTFLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.848
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_INTERNAL_FLASH_SDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.848
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_INTERNAL_FLASH_LDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.849
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_EXTERNAL_RAM_SDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.849
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_EXTERNAL_RAM_LDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.849
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_SIMULATOR
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.849
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.pa.ID_TARGET_INTERNAL_RAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:56:59.849
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.pa.ID_TARGET_INTERNAL_FLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:57:00.083
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copytoproject.cfv1
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:57:00.084
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.dontcopytoproject
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:57:00.084
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.abs
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:57:00.084
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copyelf.pa
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:57:00.085
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.arm
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:57:00.085
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.dsc
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:57:00.085
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.s12z
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:57:00.085
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.bb.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:57:00.085
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.kd.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:57:00.086
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.app.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:57:00.086
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.flt
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 00:57:00.086
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.arm.setPnEAttribute.STARTUP_USE_SWD
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-09-16 00:57:02.873
+!MESSAGE Indexed 'KL25Z_ServoMotor' (5 sources, 33 headers) in 0.64 sec: 1,059 declarations; 1,726 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 01:00:11.854
+!MESSAGE NLS missing message: DisassemblyPreferencePage_showFunctionOffsets in: org.eclipse.cdt.dsf.debug.internal.ui.disassembly.DisassemblyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 01:00:11.854
+!MESSAGE NLS missing message: DisassemblyPreferencePage_showFunctionOffsetsTooltip in: org.eclipse.cdt.dsf.debug.internal.ui.disassembly.DisassemblyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 01:00:11.854
+!MESSAGE NLS missing message: DisassemblyPreferencePage_showCodeBytes in: org.eclipse.cdt.dsf.debug.internal.ui.disassembly.DisassemblyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 01:00:11.854
+!MESSAGE NLS missing message: DisassemblyPreferencePage_showCodeBytesTooltip in: org.eclipse.cdt.dsf.debug.internal.ui.disassembly.DisassemblyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 01:00:11.855
+!MESSAGE NLS missing message: DisassemblyPreferencePage_showAddress in: org.eclipse.cdt.dsf.debug.internal.ui.disassembly.DisassemblyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2021-09-16 01:00:11.855
+!MESSAGE NLS missing message: DisassemblyPreferencePage_showAddressTooltip in: org.eclipse.cdt.dsf.debug.internal.ui.disassembly.DisassemblyMessages
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.542
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.hcs08
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.543
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.rs08
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.543
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.s12z
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.543
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.dsc
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.543
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.mpc56xx
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.543
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.px
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.543
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.cfv1
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.543
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.cfv1+
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.543
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v2
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.544
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.544
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.544
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v4e
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.544
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v2
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.544
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.544
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.544
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v4e
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.544
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v2
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.544
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.544
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.544
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v4e
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:03:53.545
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.s12z.subfamily.zvm
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:04:20.671
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.kinetis_e.ke1x.subfamily.ke14d_36
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:04:20.671
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.kinetis_e.ke1x.subfamily.ke14d_72
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:04:20.671
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.kinetis_e.ke1x.subfamily.ke15d_36
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:04:20.671
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.kinetis_e.ke1x.subfamily.ke15d_72
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:04:20.679
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:04:20.679
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:04:20.680
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:04:20.680
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:04:20.680
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:04:20.680
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:04:20.680
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:04:20.680
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:04:20.681
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:04:20.681
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:04:20.681
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:04:20.681
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:04:20.681
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60N256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:04:20.681
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:04:20.681
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.584
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_SIZE_LIB_YES
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.585
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.pa.hasPermanent.dualCore.homogeneous.config
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.585
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_SOFTWARE_FPU
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.586
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_HARDWARE_FPU
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.586
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_SIZE_LIB_NO
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.586
+!MESSAGE Unknown condition ID: mcu.projectwizard.chip.k10d_100.ID_CHIP_MK60DN256Z
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.586
+!MESSAGE Unknown condition ID: mcu.projectwizard.chip.k10d_100.ID_CHIP_MK60DN256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.592
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.hc08
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.593
+!MESSAGE Unknown condition ID: com.processorexpert.variant.7
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.593
+!MESSAGE Unknown condition ID: com.processorexpert.variant.8
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.593
+!MESSAGE Unknown condition ID: com.processorexpert.variant.9
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.594
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.594
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.594
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.5
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.594
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.6
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.641
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.isColdFire.v1.ID_TARGET_BOOTFLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.642
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_INTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.642
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_CONSOLE_INTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.642
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_EXTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.643
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_CONSOLE_EXTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.643
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_INTFLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.643
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_EXTFLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.644
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_INTERNAL_FLASH_SDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.644
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_INTERNAL_FLASH_LDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.645
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_EXTERNAL_RAM_SDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.645
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_EXTERNAL_RAM_LDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.645
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_SIMULATOR
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.646
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.pa.ID_TARGET_INTERNAL_RAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.647
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.pa.ID_TARGET_INTERNAL_FLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.685
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copytoproject.cfv1
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.685
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.dontcopytoproject
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.686
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.abs
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.686
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copyelf.pa
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.686
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.arm
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.686
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.dsc
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.686
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.s12z
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.686
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.bb.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.686
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.kd.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.687
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.app.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.687
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.flt
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2021-09-16 01:05:00.687
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.arm.setPnEAttribute.STARTUP_USE_SWD
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-09-16 01:05:03.072
+!MESSAGE Indexed 'KL25Z_TPM_PWM_BLUE_LED' (5 sources, 33 headers) in 0.27 sec: 1,059 declarations; 1,726 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY com.freescale.core.ide.rseSettingsCache 4 0 2021-09-16 01:05:05.445
+!MESSAGE The resource tree is locked for modifications.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: The resource tree is locked for modifications.
+	at org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:116)
+	at org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2329)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2386)
+	at com.freescale.core.ide.rseSettingsCache.internal.UpdateScheduler.performPendingTasks(UpdateScheduler.java:132)
+	at com.freescale.core.ide.rseSettingsCache.internal.Engine$1.resourceChanged(Engine.java:99)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:291)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:285)
+	at org.eclipse.core.internal.events.NotificationManager.handleEvent(NotificationManager.java:249)
+	at org.eclipse.core.internal.resources.Workspace.broadcastEvent(Workspace.java:396)
+	at org.eclipse.core.internal.resources.Project.close(Project.java:217)
+	at org.eclipse.ui.actions.CloseResourceAction.invokeOperation(CloseResourceAction.java:129)
+	at org.eclipse.ui.actions.WorkspaceAction.execute(WorkspaceAction.java:164)
+	at org.eclipse.ui.actions.WorkspaceAction$2.runInWorkspace(WorkspaceAction.java:485)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.core.resources 4 380 2021-09-16 01:05:05.446
+!MESSAGE The resource tree is locked for modifications.
+
+!ENTRY org.eclipse.core.filesystem 4 272 2021-09-16 01:07:30.409
+!MESSAGE Could not move: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\KL25Z_TPM_PWM_BLUE_LED.args.
+!STACK 1
+org.eclipse.core.runtime.CoreException: File not found: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\KL25Z_TPM_PWM_BLUE_LED.args.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:55)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:377)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:220)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:143)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:117)
+	at org.eclipse.core.filesystem.provider.FileStore.move(FileStore.java:410)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.move(LocalFile.java:358)
+	at org.eclipse.core.internal.localstore.BlobStore.addBlob(BlobStore.java:54)
+	at org.eclipse.core.internal.localstore.HistoryStore2.addState(HistoryStore2.java:92)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:118)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:113)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:57)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:150)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:109)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:348)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:353)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:823)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1978)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:803)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1477)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1448)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.cleanProgrammatically(CommonBuilder.java:2117)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.clean(CommonBuilder.java:1925)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performCleanning(CommonBuilder.java:1752)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPrebuildGeneration(CommonBuilder.java:1678)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:1122)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:732)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:643)
+	at org.eclipse.core.internal.events.BuildManager$3.run(BuildManager.java:812)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:289)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:378)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:381)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:437)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:460)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:540)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:449)
+	at org.eclipse.ui.actions.GlobalBuildAction$1.run(GlobalBuildAction.java:180)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.io.FileNotFoundException: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\KL25Z_TPM_PWM_BLUE_LED.args (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:368)
+	... 39 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2021-09-16 01:07:30.410
+!MESSAGE File not found: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\KL25Z_TPM_PWM_BLUE_LED.args.
+!STACK 0
+java.io.FileNotFoundException: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\KL25Z_TPM_PWM_BLUE_LED.args (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:368)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:220)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:143)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:117)
+	at org.eclipse.core.filesystem.provider.FileStore.move(FileStore.java:410)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.move(LocalFile.java:358)
+	at org.eclipse.core.internal.localstore.BlobStore.addBlob(BlobStore.java:54)
+	at org.eclipse.core.internal.localstore.HistoryStore2.addState(HistoryStore2.java:92)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:118)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:113)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:57)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:150)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:109)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:348)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:353)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:823)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1978)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:803)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1477)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1448)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.cleanProgrammatically(CommonBuilder.java:2117)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.clean(CommonBuilder.java:1925)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performCleanning(CommonBuilder.java:1752)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPrebuildGeneration(CommonBuilder.java:1678)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:1122)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:732)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:643)
+	at org.eclipse.core.internal.events.BuildManager$3.run(BuildManager.java:812)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:289)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:378)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:381)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:437)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:460)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:540)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:449)
+	at org.eclipse.ui.actions.GlobalBuildAction$1.run(GlobalBuildAction.java:180)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.eclipse.core.filesystem 4 272 2021-09-16 01:07:30.411
+!MESSAGE Could not move: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\KL25Z_TPM_PWM_BLUE_LED.elf.
+!STACK 1
+org.eclipse.core.runtime.CoreException: File not found: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\KL25Z_TPM_PWM_BLUE_LED.elf.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:55)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:377)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:220)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:143)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:117)
+	at org.eclipse.core.filesystem.provider.FileStore.move(FileStore.java:410)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.move(LocalFile.java:358)
+	at org.eclipse.core.internal.localstore.BlobStore.addBlob(BlobStore.java:54)
+	at org.eclipse.core.internal.localstore.HistoryStore2.addState(HistoryStore2.java:92)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:118)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:113)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:57)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:150)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:109)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:348)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:353)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:823)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1978)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:803)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1477)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1448)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.cleanProgrammatically(CommonBuilder.java:2117)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.clean(CommonBuilder.java:1925)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performCleanning(CommonBuilder.java:1752)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPrebuildGeneration(CommonBuilder.java:1678)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:1122)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:732)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:643)
+	at org.eclipse.core.internal.events.BuildManager$3.run(BuildManager.java:812)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:289)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:378)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:381)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:437)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:460)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:540)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:449)
+	at org.eclipse.ui.actions.GlobalBuildAction$1.run(GlobalBuildAction.java:180)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.io.FileNotFoundException: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\KL25Z_TPM_PWM_BLUE_LED.elf (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:368)
+	... 39 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2021-09-16 01:07:30.411
+!MESSAGE File not found: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\KL25Z_TPM_PWM_BLUE_LED.elf.
+!STACK 0
+java.io.FileNotFoundException: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\KL25Z_TPM_PWM_BLUE_LED.elf (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:368)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:220)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:143)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:117)
+	at org.eclipse.core.filesystem.provider.FileStore.move(FileStore.java:410)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.move(LocalFile.java:358)
+	at org.eclipse.core.internal.localstore.BlobStore.addBlob(BlobStore.java:54)
+	at org.eclipse.core.internal.localstore.HistoryStore2.addState(HistoryStore2.java:92)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:118)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:113)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:57)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:150)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:109)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:348)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:353)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:823)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1978)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:803)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1477)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1448)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.cleanProgrammatically(CommonBuilder.java:2117)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.clean(CommonBuilder.java:1925)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performCleanning(CommonBuilder.java:1752)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPrebuildGeneration(CommonBuilder.java:1678)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:1122)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:732)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:643)
+	at org.eclipse.core.internal.events.BuildManager$3.run(BuildManager.java:812)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:289)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:378)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:381)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:437)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:460)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:540)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:449)
+	at org.eclipse.ui.actions.GlobalBuildAction$1.run(GlobalBuildAction.java:180)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.eclipse.core.filesystem 4 272 2021-09-16 01:07:30.412
+!MESSAGE Could not move: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\KL25Z_TPM_PWM_BLUE_LED.map.
+!STACK 1
+org.eclipse.core.runtime.CoreException: File not found: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\KL25Z_TPM_PWM_BLUE_LED.map.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:55)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:377)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:220)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:143)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:117)
+	at org.eclipse.core.filesystem.provider.FileStore.move(FileStore.java:410)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.move(LocalFile.java:358)
+	at org.eclipse.core.internal.localstore.BlobStore.addBlob(BlobStore.java:54)
+	at org.eclipse.core.internal.localstore.HistoryStore2.addState(HistoryStore2.java:92)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:118)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:113)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:57)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:150)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:109)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:348)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:353)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:823)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1978)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:803)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1477)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1448)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.cleanProgrammatically(CommonBuilder.java:2117)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.clean(CommonBuilder.java:1925)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performCleanning(CommonBuilder.java:1752)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPrebuildGeneration(CommonBuilder.java:1678)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:1122)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:732)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:643)
+	at org.eclipse.core.internal.events.BuildManager$3.run(BuildManager.java:812)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:289)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:378)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:381)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:437)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:460)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:540)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:449)
+	at org.eclipse.ui.actions.GlobalBuildAction$1.run(GlobalBuildAction.java:180)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.io.FileNotFoundException: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\KL25Z_TPM_PWM_BLUE_LED.map (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:368)
+	... 39 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2021-09-16 01:07:30.412
+!MESSAGE File not found: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\KL25Z_TPM_PWM_BLUE_LED.map.
+!STACK 0
+java.io.FileNotFoundException: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\KL25Z_TPM_PWM_BLUE_LED.map (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:368)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:220)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:143)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:117)
+	at org.eclipse.core.filesystem.provider.FileStore.move(FileStore.java:410)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.move(LocalFile.java:358)
+	at org.eclipse.core.internal.localstore.BlobStore.addBlob(BlobStore.java:54)
+	at org.eclipse.core.internal.localstore.HistoryStore2.addState(HistoryStore2.java:92)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:118)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:113)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:57)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:150)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:109)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:348)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:353)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:823)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1978)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:803)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1477)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1448)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.cleanProgrammatically(CommonBuilder.java:2117)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.clean(CommonBuilder.java:1925)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performCleanning(CommonBuilder.java:1752)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPrebuildGeneration(CommonBuilder.java:1678)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:1122)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:732)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:643)
+	at org.eclipse.core.internal.events.BuildManager$3.run(BuildManager.java:812)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:289)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:378)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:381)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:437)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:460)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:540)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:449)
+	at org.eclipse.ui.actions.GlobalBuildAction$1.run(GlobalBuildAction.java:180)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.eclipse.core.filesystem 4 272 2021-09-16 01:07:30.419
+!MESSAGE Could not move: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\Project_Settings.
+!STACK 1
+org.eclipse.core.runtime.CoreException: File not found: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\Project_Settings.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:55)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:377)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:220)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:143)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:117)
+	at org.eclipse.core.filesystem.provider.FileStore.move(FileStore.java:410)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.move(LocalFile.java:358)
+	at org.eclipse.core.internal.localstore.BlobStore.addBlob(BlobStore.java:54)
+	at org.eclipse.core.internal.localstore.HistoryStore2.addState(HistoryStore2.java:92)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:118)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:113)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:57)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:150)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:109)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:348)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:353)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:823)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1978)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:803)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1477)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1448)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.cleanProgrammatically(CommonBuilder.java:2117)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.clean(CommonBuilder.java:1925)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performCleanning(CommonBuilder.java:1752)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPrebuildGeneration(CommonBuilder.java:1678)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:1122)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:732)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:643)
+	at org.eclipse.core.internal.events.BuildManager$3.run(BuildManager.java:812)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:289)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:378)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:381)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:437)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:460)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:540)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:449)
+	at org.eclipse.ui.actions.GlobalBuildAction$1.run(GlobalBuildAction.java:180)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.io.FileNotFoundException: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\Project_Settings (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:368)
+	... 39 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2021-09-16 01:07:30.419
+!MESSAGE File not found: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\Project_Settings.
+!STACK 0
+java.io.FileNotFoundException: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\Project_Settings (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:368)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:220)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:143)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:117)
+	at org.eclipse.core.filesystem.provider.FileStore.move(FileStore.java:410)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.move(LocalFile.java:358)
+	at org.eclipse.core.internal.localstore.BlobStore.addBlob(BlobStore.java:54)
+	at org.eclipse.core.internal.localstore.HistoryStore2.addState(HistoryStore2.java:92)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:118)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:113)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:57)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:150)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:109)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:348)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:353)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:823)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1978)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:803)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1477)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1448)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.cleanProgrammatically(CommonBuilder.java:2117)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.clean(CommonBuilder.java:1925)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performCleanning(CommonBuilder.java:1752)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPrebuildGeneration(CommonBuilder.java:1678)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:1122)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:732)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:643)
+	at org.eclipse.core.internal.events.BuildManager$3.run(BuildManager.java:812)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:289)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:378)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:381)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:437)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:460)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:540)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:449)
+	at org.eclipse.ui.actions.GlobalBuildAction$1.run(GlobalBuildAction.java:180)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.eclipse.core.filesystem 4 272 2021-09-16 01:07:30.421
+!MESSAGE Could not move: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\Sources.
+!STACK 1
+org.eclipse.core.runtime.CoreException: File not found: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\Sources.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:55)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:377)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:220)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:143)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:117)
+	at org.eclipse.core.filesystem.provider.FileStore.move(FileStore.java:410)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.move(LocalFile.java:358)
+	at org.eclipse.core.internal.localstore.BlobStore.addBlob(BlobStore.java:54)
+	at org.eclipse.core.internal.localstore.HistoryStore2.addState(HistoryStore2.java:92)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:118)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:113)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:57)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:150)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:109)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:348)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:353)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:823)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1978)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:803)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1477)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1448)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.cleanProgrammatically(CommonBuilder.java:2117)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.clean(CommonBuilder.java:1925)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performCleanning(CommonBuilder.java:1752)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPrebuildGeneration(CommonBuilder.java:1678)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:1122)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:732)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:643)
+	at org.eclipse.core.internal.events.BuildManager$3.run(BuildManager.java:812)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:289)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:378)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:381)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:437)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:460)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:540)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:449)
+	at org.eclipse.ui.actions.GlobalBuildAction$1.run(GlobalBuildAction.java:180)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.io.FileNotFoundException: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\Sources (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:368)
+	... 39 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2021-09-16 01:07:30.421
+!MESSAGE File not found: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\Sources.
+!STACK 0
+java.io.FileNotFoundException: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\Sources (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:368)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:220)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:143)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:117)
+	at org.eclipse.core.filesystem.provider.FileStore.move(FileStore.java:410)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.move(LocalFile.java:358)
+	at org.eclipse.core.internal.localstore.BlobStore.addBlob(BlobStore.java:54)
+	at org.eclipse.core.internal.localstore.HistoryStore2.addState(HistoryStore2.java:92)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:118)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:113)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:57)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:150)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:109)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:348)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:353)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:823)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1978)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:803)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1477)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1448)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.cleanProgrammatically(CommonBuilder.java:2117)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.clean(CommonBuilder.java:1925)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performCleanning(CommonBuilder.java:1752)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPrebuildGeneration(CommonBuilder.java:1678)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:1122)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:732)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:643)
+	at org.eclipse.core.internal.events.BuildManager$3.run(BuildManager.java:812)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:289)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:378)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:381)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:437)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:460)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:540)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:449)
+	at org.eclipse.ui.actions.GlobalBuildAction$1.run(GlobalBuildAction.java:180)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.eclipse.core.filesystem 4 272 2021-09-16 01:07:30.423
+!MESSAGE Could not move: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\makefile.
+!STACK 1
+org.eclipse.core.runtime.CoreException: File not found: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\makefile.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:55)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:377)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:220)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:143)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:117)
+	at org.eclipse.core.filesystem.provider.FileStore.move(FileStore.java:410)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.move(LocalFile.java:358)
+	at org.eclipse.core.internal.localstore.BlobStore.addBlob(BlobStore.java:54)
+	at org.eclipse.core.internal.localstore.HistoryStore2.addState(HistoryStore2.java:92)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:118)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:113)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:57)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:150)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:109)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:348)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:353)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:823)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1978)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:803)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1477)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1448)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.cleanProgrammatically(CommonBuilder.java:2117)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.clean(CommonBuilder.java:1925)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performCleanning(CommonBuilder.java:1752)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPrebuildGeneration(CommonBuilder.java:1678)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:1122)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:732)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:643)
+	at org.eclipse.core.internal.events.BuildManager$3.run(BuildManager.java:812)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:289)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:378)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:381)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:437)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:460)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:540)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:449)
+	at org.eclipse.ui.actions.GlobalBuildAction$1.run(GlobalBuildAction.java:180)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.io.FileNotFoundException: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\makefile (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:368)
+	... 39 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2021-09-16 01:07:30.423
+!MESSAGE File not found: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\makefile.
+!STACK 0
+java.io.FileNotFoundException: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\makefile (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:368)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:220)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:143)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:117)
+	at org.eclipse.core.filesystem.provider.FileStore.move(FileStore.java:410)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.move(LocalFile.java:358)
+	at org.eclipse.core.internal.localstore.BlobStore.addBlob(BlobStore.java:54)
+	at org.eclipse.core.internal.localstore.HistoryStore2.addState(HistoryStore2.java:92)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:118)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:113)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:57)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:150)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:109)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:348)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:353)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:823)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1978)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:803)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1477)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1448)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.cleanProgrammatically(CommonBuilder.java:2117)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.clean(CommonBuilder.java:1925)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performCleanning(CommonBuilder.java:1752)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPrebuildGeneration(CommonBuilder.java:1678)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:1122)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:732)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:643)
+	at org.eclipse.core.internal.events.BuildManager$3.run(BuildManager.java:812)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:289)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:378)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:381)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:437)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:460)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:540)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:449)
+	at org.eclipse.ui.actions.GlobalBuildAction$1.run(GlobalBuildAction.java:180)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.eclipse.core.filesystem 4 272 2021-09-16 01:07:30.424
+!MESSAGE Could not move: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\makefile.local.
+!STACK 1
+org.eclipse.core.runtime.CoreException: File not found: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\makefile.local.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:55)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:377)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:220)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:143)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:117)
+	at org.eclipse.core.filesystem.provider.FileStore.move(FileStore.java:410)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.move(LocalFile.java:358)
+	at org.eclipse.core.internal.localstore.BlobStore.addBlob(BlobStore.java:54)
+	at org.eclipse.core.internal.localstore.HistoryStore2.addState(HistoryStore2.java:92)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:118)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:113)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:57)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:150)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:109)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:348)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:353)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:823)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1978)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:803)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1477)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1448)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.cleanProgrammatically(CommonBuilder.java:2117)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.clean(CommonBuilder.java:1925)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performCleanning(CommonBuilder.java:1752)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPrebuildGeneration(CommonBuilder.java:1678)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:1122)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:732)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:643)
+	at org.eclipse.core.internal.events.BuildManager$3.run(BuildManager.java:812)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:289)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:378)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:381)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:437)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:460)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:540)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:449)
+	at org.eclipse.ui.actions.GlobalBuildAction$1.run(GlobalBuildAction.java:180)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.io.FileNotFoundException: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\makefile.local (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:368)
+	... 39 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2021-09-16 01:07:30.424
+!MESSAGE File not found: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\makefile.local.
+!STACK 0
+java.io.FileNotFoundException: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\makefile.local (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:368)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:220)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:143)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:117)
+	at org.eclipse.core.filesystem.provider.FileStore.move(FileStore.java:410)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.move(LocalFile.java:358)
+	at org.eclipse.core.internal.localstore.BlobStore.addBlob(BlobStore.java:54)
+	at org.eclipse.core.internal.localstore.HistoryStore2.addState(HistoryStore2.java:92)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:118)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:113)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:57)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:150)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:109)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:348)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:353)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:823)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1978)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:803)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1477)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1448)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.cleanProgrammatically(CommonBuilder.java:2117)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.clean(CommonBuilder.java:1925)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performCleanning(CommonBuilder.java:1752)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPrebuildGeneration(CommonBuilder.java:1678)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:1122)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:732)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:643)
+	at org.eclipse.core.internal.events.BuildManager$3.run(BuildManager.java:812)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:289)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:378)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:381)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:437)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:460)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:540)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:449)
+	at org.eclipse.ui.actions.GlobalBuildAction$1.run(GlobalBuildAction.java:180)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.eclipse.core.filesystem 4 272 2021-09-16 01:07:30.454
+!MESSAGE Could not move: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\objects.mk.
+!STACK 1
+org.eclipse.core.runtime.CoreException: File not found: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\objects.mk.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:55)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:377)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:220)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:143)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:117)
+	at org.eclipse.core.filesystem.provider.FileStore.move(FileStore.java:410)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.move(LocalFile.java:358)
+	at org.eclipse.core.internal.localstore.BlobStore.addBlob(BlobStore.java:54)
+	at org.eclipse.core.internal.localstore.HistoryStore2.addState(HistoryStore2.java:92)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:118)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:113)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:57)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:150)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:109)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:348)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:353)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:823)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1978)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:803)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1477)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1448)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.cleanProgrammatically(CommonBuilder.java:2117)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.clean(CommonBuilder.java:1925)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performCleanning(CommonBuilder.java:1752)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPrebuildGeneration(CommonBuilder.java:1678)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:1122)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:732)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:643)
+	at org.eclipse.core.internal.events.BuildManager$3.run(BuildManager.java:812)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:289)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:378)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:381)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:437)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:460)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:540)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:449)
+	at org.eclipse.ui.actions.GlobalBuildAction$1.run(GlobalBuildAction.java:180)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.io.FileNotFoundException: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\objects.mk (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:368)
+	... 39 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2021-09-16 01:07:30.454
+!MESSAGE File not found: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\objects.mk.
+!STACK 0
+java.io.FileNotFoundException: D:\git_projects\KL25Z_Projects\KL25Z_TPM_PWM_BLUE_LED\FLASH\objects.mk (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:368)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:220)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:143)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:117)
+	at org.eclipse.core.filesystem.provider.FileStore.move(FileStore.java:410)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.move(LocalFile.java:358)
+	at org.eclipse.core.internal.localstore.BlobStore.addBlob(BlobStore.java:54)
+	at org.eclipse.core.internal.localstore.HistoryStore2.addState(HistoryStore2.java:92)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:118)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:113)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:57)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:150)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:109)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:348)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:353)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:823)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1978)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:803)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1477)
+	at org.eclipse.core.internal.resources.Workspace.delete(Workspace.java:1448)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.cleanProgrammatically(CommonBuilder.java:2117)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.clean(CommonBuilder.java:1925)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performCleanning(CommonBuilder.java:1752)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPrebuildGeneration(CommonBuilder.java:1678)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:1122)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:732)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:643)
+	at org.eclipse.core.internal.events.BuildManager$3.run(BuildManager.java:812)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:289)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:378)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:381)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:437)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:460)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:540)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:449)
+	at org.eclipse.ui.actions.GlobalBuildAction$1.run(GlobalBuildAction.java:180)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
